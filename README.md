@@ -81,7 +81,9 @@ Leitmotiv: Bruchlinie
 
 ## Lizenz
 
-MIT License (provisorisch)
+© 2025 Guido Wiegandt. Alle Rechte vorbehalten.  
+Nutzung, Vervielfältigung oder Veränderung nur mit ausdrücklicher schriftlicher Genehmigung.
+
 
 ## Mitwirken
 
