@@ -87,7 +87,8 @@ Nutzung, Vervielfältigung oder Veränderung nur mit ausdrücklicher schriftlich
 
 ## Mitwirken
 
-Pull Requests & Diskussionen willkommen – Ziel: Open-Poetics-Toolkit
+Beiträge sind willkommen!
+Pull Requests und Diskussionen unterstützen die Weiterentwicklung des Frameworks.
 
 ---
 
