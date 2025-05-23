@@ -76,7 +76,7 @@ Leitmotiv: Bruchlinie
 
 ## Dokumentation
 
-→ Vollständiger Preprint (PDF / LaTeX-Version) wird noch hinzugefügt 
+→ Vollständiger Preprint kann auf Anfrage gerne geteilt werden.
 → Enthält bisher: Theorie, Module, Testbeispiele, Diagnostik
 
 ## Lizenz
