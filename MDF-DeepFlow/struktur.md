@@ -113,15 +113,4 @@ Diese Module wirken nicht sequentiell. Sie sind **gleichzeitig** – aber nicht 
 
 ---
 
-## 🖼 (Optional) Diagrammidee:
-
-> Ein mehrschichtiger Kreis:
->
-> * Innen: DF-Stufenring
-> * Mitte: Raumachsen (L)
-> * Außen: Richtachsen (K)
->   Pfeile zeigen Drift, Kollision, Oszillation
-
----
-
 Das MDF-Framework ist kein Baukasten – es ist ein poetischer Organismus. Jede Konfiguration ist ein anderes Nervensystem für Bedeutung.
