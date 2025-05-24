@@ -81,8 +81,8 @@ Leitmotiv: Bruchlinie
 
 ## Lizenz
 
-© 2025 Guido Wiegandt. Alle Rechte vorbehalten.  
-Nutzung, Vervielfältigung oder Veränderung nur mit ausdrücklicher schriftlicher Genehmigung.
+MDF – Metapherschmiede DeepFlow
+Non-Commercial License / Nicht-kommerzielle Lizenz
 
 ## Mitwirken
 
